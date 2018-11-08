@@ -12,4 +12,4 @@ if (!empty($input) && !empty($options)) {
   }
 }
 
-print $output;
+print $output; /* выводим 300 знаков из контента */
